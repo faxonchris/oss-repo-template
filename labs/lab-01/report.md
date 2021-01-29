@@ -12,7 +12,13 @@ What I got from reading Jesse's story is that people should be able to tinker wi
 ## Tree:
 ![tree](tree.png)
 ## Regex:
-
+![reg1](reg1.PNG)
+![re2](reg2.PNG)
+![reg3](reg3.PNG)
+![reg4](reg4.PNG)
+![reg5](reg5.PNG)
+![reg6](reg6.PNG)
+![reg7](reg7.PNG)
 ## Regex Puzzles:
 ![puzzle1](puzzle1.PNG)
 ![puzzle2](puzzle2.PNG)
