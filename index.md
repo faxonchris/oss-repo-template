@@ -2,7 +2,8 @@
 ## Christopher Faxon
 
 ## Bio
-I am a junior computer science major. My interests are golfing, skiing, lifting weights, watching football and programming
+I am a junior computer science major. My interests are golfing, skiing, lifting weights, watching football and programming.
+Discord: chrisf#1352
 ![Chris](00100dPORTRAIT_00100_BURST20200205124325142_COVER_2.jpg)
 
 ## Lab Reports
