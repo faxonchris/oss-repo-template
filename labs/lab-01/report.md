@@ -29,3 +29,4 @@ What I got from reading Jesse's story is that people should be able to tinker wi
 ![blocklymaze](blocklymaze.png)
 
 ## Reflection:
+An open-source project that I found interesting is the Ethereum Project https://github.com/ethereum/go-ethereum Ethereum is a blockchain network that allows for the trustless execution of "smart contracts", which are all open-source programs that operate on the ethereum network that can be interacted with. An example of a smart contract could be an escrow service, where no trusted third party is required and two parties can exchange currencies for a small fee on the Ethereum network. The software being open source is important because then people can be sure that their contracts will execute as expected and there are no backdoors for people to steal their coins from.
