@@ -49,6 +49,7 @@ First commit: Initial commit (fa857b000c2c85ab167a19eb1b02ed26c16a891d)
 Latest Commit: Retrying drop gitignore files (77b7b88c2c12b1d153f1f19893827aafdac2811b) On branch master
 
 ### Insomnia Dialogue System
+
 the number of contributors: 3
 
 number of lines of code: 85996 total
@@ -58,6 +59,25 @@ the first commit: commit 7d2dcb71edad3a3abdaf91b8ca8cd31a77752072 - "Initial Com
 the latest commit: commit e5ada154e210d1962f7912b9989713620822de51 - "Final Push. Horizontal Scroll rects and generating buttons is good to go" on branch: master
 
 the current branches: just master
+
+###Gitstats results:
+
+
+###onmyownti.me
+
+Gitstats found 1949 lines of code and 4 contributors, git found 2251 lines of code and 1 contributor
+
+### Flutter ShuttleTracker
+
+Gitstats found 18887 lines of code and 6 contributors, git command found 37461 lines of code and 5 contributors
+
+### MarketBot
+
+Gitstats found 2326 lines of code and 10 contributors, git command found 2313 lines of code and 4 contributors
+
+### Insomnia Dialogue System
+
+Gitstats found 30634 lines of code and 3 contributors, git command found 85996 lines of code and 4 contributors
 
 ### onmyownti.me gource:
 ![on](on.png)
