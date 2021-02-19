@@ -10,7 +10,7 @@ Just because some code is out there doesn't mean it's open source. If you use co
 
 ### Failure to follow the open system model
 
-Gopher failed because they didn't follow the open system, and instead asserted too much control over their software and tried profiting off it. This made people less comfortable adopting it, and other alternatives prevailed.
+Gopher failed because they didn't follow the open system, and instead asserted too much control over their software and tried profiting off it. This made people less comfortable adopting it, and other alternatives prevailed. I agree with this analysis because many developers would probably prefer a standard that is completely open source and not controlled by one group.
 
 ### Microsoft .NET core MIT license
 
