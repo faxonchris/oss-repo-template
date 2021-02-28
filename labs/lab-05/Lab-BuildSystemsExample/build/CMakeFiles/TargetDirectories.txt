@@ -1,0 +1,6 @@
+/mnt/c/users/chris/documents/oss/CSCI-4470-OpenSource/modules/05.buildsystems/lab-buildsystemsexample/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/users/chris/documents/oss/CSCI-4470-OpenSource/modules/05.buildsystems/lab-buildsystemsexample/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/chris/documents/oss/CSCI-4470-OpenSource/modules/05.buildsystems/lab-buildsystemsexample/build/CMakeFiles/dynamic_block.dir
+/mnt/c/users/chris/documents/oss/CSCI-4470-OpenSource/modules/05.buildsystems/lab-buildsystemsexample/build/CMakeFiles/programdynamic.dir
+/mnt/c/users/chris/documents/oss/CSCI-4470-OpenSource/modules/05.buildsystems/lab-buildsystemsexample/build/CMakeFiles/static_block.dir
+/mnt/c/users/chris/documents/oss/CSCI-4470-OpenSource/modules/05.buildsystems/lab-buildsystemsexample/build/CMakeFiles/program.dir

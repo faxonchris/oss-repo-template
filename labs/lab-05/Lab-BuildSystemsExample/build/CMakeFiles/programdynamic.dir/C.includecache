@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/users/chris/documents/oss/CSCI-4470-OpenSource/modules/05.buildsystems/lab-buildsystemsexample/headers/block.h
+
+/mnt/c/users/chris/documents/oss/CSCI-4470-OpenSource/modules/05.buildsystems/lab-buildsystemsexample/program.c
+headers/block.h
+/mnt/c/users/chris/documents/oss/CSCI-4470-OpenSource/modules/05.buildsystems/lab-buildsystemsexample/headers/block.h
+

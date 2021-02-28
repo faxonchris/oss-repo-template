@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libdynamic_block.so -o libdynamic_block.so CMakeFiles/dynamic_block.dir/source/block.c.o 

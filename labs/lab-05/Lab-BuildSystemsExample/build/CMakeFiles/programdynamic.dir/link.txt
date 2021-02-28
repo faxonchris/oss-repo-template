@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/programdynamic.dir/program.c.o  -o programdynamic -Wl,-rpath,/mnt/c/users/chris/documents/oss/CSCI-4470-OpenSource/modules/05.buildsystems/lab-buildsystemsexample/build libdynamic_block.so 
