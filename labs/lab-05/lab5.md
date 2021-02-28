@@ -4,41 +4,45 @@
 
 ![step1](step1.png)
 
-CMakeLists:
-
-MathFunctions/CMakeLists:
+CMakeLists: https://github.com/faxonchris/oss-repo-template/blob/master/labs/lab-05/Step1/CMakeLists.txt
 
 ## Step 2 output:
 
 ![step2](step2.png)
 
-CMakeLists:
-
-MathFunctions/CMakeLists:
+CMakeLists: https://github.com/faxonchris/oss-repo-template/blob/master/labs/lab-05/Step2/CMakeLists.txt
 
 ## Step 3 output:
 
 ![step3](step3.png)
 
-CMakeLists:
+CMakeLists: https://github.com/faxonchris/oss-repo-template/blob/master/labs/lab-05/Step3/CMakeLists.txt
 
-MathFunctions/CMakeLists:
+MathFunctions/CMakeLists: https://github.com/faxonchris/oss-repo-template/blob/master/labs/lab-05/Step3/MathFunctions/CMakeLists.txt
 
 ## Step 4 output:
 
 ![step4](step4.png)
 
-CMakeLists:
+CMakeLists: https://github.com/faxonchris/oss-repo-template/blob/master/labs/lab-05/Step4/CMakeLists.txt
 
-MathFunctions/CMakeLists:
+MathFunctions/CMakeLists: https://github.com/faxonchris/oss-repo-template/blob/master/labs/lab-05/Step4/MathFunctions/CMakeLists.txt
+
+## Step 5 output:
+
+![step5](step5.png)
+
+CMakeLists: https://github.com/faxonchris/oss-repo-template/blob/master/labs/lab-05/Step5/CMakeLists.txt
+
+MathFunctions/CMakeLists: https://github.com/faxonchris/oss-repo-template/blob/master/labs/lab-05/Step5/MathFunctions/CMakeLists.txt
 
 ## Static library then dynamic library results:
 
 ![results](results.png)
 
-MakeFile:
+CMakeLists: https://github.com/faxonchris/oss-repo-template/blob/master/labs/lab-05/Lab-BuildSystemsExample/CMakeLists.txt
 
-CMakeLists file:
+MakeFile: https://github.com/faxonchris/oss-repo-template/blob/master/labs/lab-05/Lab-BuildSystemsExample/build/Makefile
 
 ## Size comparison:
 
