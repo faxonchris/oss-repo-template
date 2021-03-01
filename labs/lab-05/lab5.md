@@ -40,6 +40,12 @@ MathFunctions/CMakeLists: https://github.com/faxonchris/oss-repo-template/blob/m
 
 ![results](results.png)
 
+## Makefile
+
+https://github.com/faxonchris/oss-repo-template/blob/master/labs/lab-05/Lab-BuildSystemsExample/makefilebuild/makefile
+
+## Build from cmake
+
 CMakeLists: https://github.com/faxonchris/oss-repo-template/blob/master/labs/lab-05/Lab-BuildSystemsExample/CMakeLists.txt
 
 MakeFile: https://github.com/faxonchris/oss-repo-template/blob/master/labs/lab-05/Lab-BuildSystemsExample/build/Makefile
